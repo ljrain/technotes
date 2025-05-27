@@ -3,15 +3,15 @@
 # Fill out all fields with comments
 uid: 
 metadata:
-  title: # Add your desired learning path title. All titles must be sentence-case.
+  title: # Monitoring Power Platform with Application Insights
   description: # Add a short description of your learning path for search engines.
   brand: 
-  ms.date: mm/dd/yyyy
-  author: # Your GitHub username (or whomever you'd like to give author attribution to)
-  ms.author: # Your Microsoft username (or whomever you'd like to receive DevOps notifications for this content)
+  ms.date: 05/27/2025
+  author: # ljrain
+  ms.author: # lourainaldi
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-title: # Your desired learning path title. Same as above.
+title: # YMonitoring Power Platform with Application Insights
 summary: | # Add a description for your learning path to be displayed to users in the given form. Can include the description from above.
   <Short description of your learning path> 
 
